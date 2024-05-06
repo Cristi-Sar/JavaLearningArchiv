@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Programa que solicita al usuario 3 numeros y los ordena de mayor a mayor a menor
+ * Programa que solicita al usuario 3 numeros y los ordena de  mayor a menor
  *
  * @author cristina
  */
